@@ -1,0 +1,7 @@
+client/debug
+client/release
+server/debug
+server/release
+*.pro.user
+build-server-Desktop-Debug/*
+build-client-Desktop-Debug/*
